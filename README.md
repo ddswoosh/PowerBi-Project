@@ -1,5 +1,6 @@
 # PowerBi-Project
-Basic Power Bi Project.
+Basic Power Bi Project
+
 This dashboard was created using real world data.
 Simple Power BI dashboard using excel as the to pull data.
 
